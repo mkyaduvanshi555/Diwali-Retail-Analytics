@@ -52,7 +52,7 @@ Imported the clean data into a MySQL database and wrote SQL queries to aggregate
 
 Visualized all findings in Tableau and combined them into the final, interactive dashboard linked above.
 
-Files in This Repository
+##### Files in This Repository
 
 Diwali_Sales_Analysis.ipynb: The Python notebook used for data cleaning and EDA.
 
