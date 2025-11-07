@@ -1,10 +1,10 @@
 # Diwali Sales Analysis & Business Insights
 
-Project Objective
+Project Objective:
 
 This project is an end-to-end data analysis of Diwali sales data from a retail store. The goal was to move beyond raw data to identify key customer trends and provide actionable recommendations for the marketing and sales teams to increase profitability.
 
-## 📈 My Business Recommendations
+## My Business Recommendations
 
 Based on my analysis, I recommend the following data-driven strategies:
 
@@ -16,7 +16,7 @@ Prioritize Key Product Categories: Ensure Food, Clothing, and Electronics are he
 
 Tailor Your Messaging: Given that unmarried customers drive a significant portion of sales, marketing messaging can be tailored to this group. Campaigns focused on "gifting for friends" or "treat yourself" could be highly effective.
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 My recommendations are based on these key insights, which I uncovered from the data:
 
@@ -36,7 +36,7 @@ What are they buying?
 
 By Product: Customer spending is focused on a few key categories. The most popular and profitable items are Food, Clothing & Apparel, and Electronics & Gadgets.
 
-### 🛠️ Technology & Workflow
+### Technology & Workflow
 
 To get these insights, I performed the full end-to-end analysis, from cleaning to visualization.
 
